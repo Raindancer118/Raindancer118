@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img alt="Tom Stieh – Werkzeuge, mit denen KI-Agenten kontrolliert mit echten Systemen arbeiten" src="assets/hero-light.svg" width="100%">
-</picture>
+<img alt="Tom Stieh – Werkzeuge, mit denen KI-Agenten kontrolliert mit echten Systemen arbeiten" src="assets/hero-light.svg#gh-light-mode-only" width="100%">
+<img alt="Tom Stieh – Werkzeuge, mit denen KI-Agenten kontrolliert mit echten Systemen arbeiten" src="assets/hero-dark.svg#gh-dark-mode-only" width="100%">
 
 Ich studiere dual Wirtschaftsinformatik an der NORDAKADEMIE und arbeite dabei in der IT der Autoflug GmbH, Abschluss im März 2027. Privat baue ich vor allem Werkzeuge, mit denen KI-Agenten kontrolliert an echte Systeme kommen, und betreibe alles selbst, vom Proxmox-Server bis zur CI-Pipeline.
 
